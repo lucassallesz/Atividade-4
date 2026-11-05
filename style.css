@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 30px;
+  }
+  
+  table {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background: #ffffff;
+    border: 3px solid #e8590c;
+  }
+  
+  caption {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #e8590c;
+    margin-bottom: 12px;
+  }
+  
+  th, td {
+    border: 1px solid #e8590c;
+    padding: 14px 8px;
+    text-align: center;
+    width: 12.5%;
+  }
+  
+  thead th,
+  tbody th {
+    background: #f26522;
+    color: #ffffff;
+  }
+  
+  td {
+    background: #ffffff;
+    color: #333333;
+  }
